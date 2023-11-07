@@ -62,3 +62,6 @@ In `script.ts` file, instead of importing from `@prisma/client`, you should impo
 
 You can then test the Autocomplete and Typechecking on the split generated types. From the test carries out, this is very fast.
 
+### Node Version
+Node v20.2.0
+
